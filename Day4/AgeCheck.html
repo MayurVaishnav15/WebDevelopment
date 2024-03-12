@@ -3,13 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="AgeCheck.css">
     <title>Age:check</title>
 </head>
 <body>
-    <form action="">
-        <input type="checkbox" id="agech01" name="age">
-        <label for="agech01"></label>
-
+    <form action="./action" id="form1">
+        <fieldset>
+            <legend>
+                Are You 18+
+            </legend>
+        <input type="checkbox" id="agech01" name="age" checked>
+        <label for="agech01">Yes</label>
     </form>
+    <form action="">
+        <input type="checkbox" id="agech02" name="age">
+        <label for="agech02">No</label>
+    </form>
+</fieldset>
+<br>
+<button form="form1" type="submit">SUBMIT</button>
 </body>
 </html>
