@@ -1,28 +1,35 @@
+*{
+    margin: 0.2cqmax;
+    text-align: right;
+}
 .google{
     color: brown;
     border: red solid 5px;
     padding: 15px;
-    text-align: right;
-
 }
 .youtube{
     color: rgb(0, 140, 255);
     border: red solid 5px;
     padding: 15px;
-
 }
 .bing{
     color: blueviolet;
     border: red solid 5px;
     padding: 15px;
-
 }
 form {
     margin:1cqw;
     width: fit-content;
-
 }
-.google input{
-    color: blue;
-    text-align: center;
+#searchg{
+    text-align: left;
+}
+#searchyt{
+    text-align: left;
+}
+#searchb{
+    text-align: left;
+}
+h1{
+    text-align:left;
 }
