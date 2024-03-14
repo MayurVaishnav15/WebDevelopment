@@ -1,18 +1,26 @@
 .google{
-    border: red solid 1px;
+    border: red solid 5px;
     padding: 15px;
-    margin: auto;
+
 }
 .youtube{
     color: rgb(0, 140, 255);
-    border: red solid 1px;
+    border: red solid 5px;
     padding: 15px;
-    margin: auto;
 
 }
 .bing{
     color: blueviolet;
-    border: red solid 1px;
+    border: red solid 5px;
     padding: 15px;
-    margin: auto;
+
+}
+form {
+    margin:1cqw;
+    width: fit-content;
+
+}
+.google input{
+    color: blue;
+    text-align: center;
 }
