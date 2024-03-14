@@ -1,0 +1,18 @@
+.google{
+    border: red solid 1px;
+    padding: 15px;
+    margin: auto;
+}
+.youtube{
+    color: rgb(0, 140, 255);
+    border: red solid 1px;
+    padding: 15px;
+    margin: auto;
+
+}
+.bing{
+    color: blueviolet;
+    border: red solid 1px;
+    padding: 15px;
+    margin: auto;
+}
