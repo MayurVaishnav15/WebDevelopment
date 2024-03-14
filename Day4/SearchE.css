@@ -1,6 +1,8 @@
 .google{
+    color: brown;
     border: red solid 5px;
     padding: 15px;
+    text-align: right;
 
 }
 .youtube{
