@@ -4,6 +4,7 @@ body{
     align-items: center;
     justify-content: center;
 
+
 }
 .bigbox1{
     background: lightblue;
@@ -11,10 +12,17 @@ body{
     width: 300px;
     display: flex;
 }
+.bigbox2{
+ display: flex;
+ border:2px white solid;
+ position: absolute;
+}
+    
 .red{
     background: red;
     height: 100px;
     width: 100px;
+   
 }
 .yellow{
     background: yellow;
@@ -26,4 +34,19 @@ body{
     height: 100px;
     width: 100px;
 
+}
+.red2{
+    background: red;
+    height: 100px;
+    width: 100px;
+}
+.yellow2{
+    background: yellow;
+    height: 100px;
+    width: 100px;
+}
+.green2{
+    background: green;
+    height: 100px;
+    width: 100px;
 }
