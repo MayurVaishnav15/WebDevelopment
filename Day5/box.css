@@ -1,0 +1,38 @@
+body{
+    height: 500vh;
+    display: flex;
+    align-items: center;      /*centers horizontally */
+    justify-content: center;  /*centers vertically */
+    background-color: brown;
+}
+.bigbox{
+    height: 300px;
+    width: 300px;
+    background: pink;
+    display: flex;
+}
+.red{
+    background:red;
+    height: 100px;
+    width: 100px;
+}
+.yellow{
+    background:  yellow;
+    height: 100px;
+    width: 100px;
+}
+.green{
+    display: flex;
+    background:green;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100%;
+}
+.blue{
+    background: blue;
+    height: 100px;
+    width: 100px;
+
+}
