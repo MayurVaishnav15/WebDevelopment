@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+}
+:root{
+    --bgcolor:#131A22;
+}
+/* body{
+    background: var(--bgcolor);
+} */
+.navbar{
+    height: 60px;
+    background: var(--bgcolor);
+}
+.logo{
+    height: 50px;
+    width: 100px;
+
+}
+.logo .logoimg{
+    width: 100%;
+
+}
